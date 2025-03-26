@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Москва",
+    "Country": "Россия",
+    "Population": 193823783,
+    "Longitude": 37.6176,
+    "Latitude": 55.7558,
+    "CityWeather": {
+      "Description": "пасмурно",
+      "Temperature": 5.0,
+      "FeelsLike": 1.09,
+      "Humidity": 61,
+      "Cloudiness": 100,
+      "WindSpeed": 6.65,
+      "Precipitation": 0.0
+    }
+  },
+  {
+    "Name": "Нью-Йорк",
+    "Country": "США",
+    "Population": 0,
+    "Longitude": -74.006,
+    "Latitude": 40.7128,
+    "CityWeather": {
+      "Description": "ясно",
+      "Temperature": 11.0,
+      "FeelsLike": 9.95,
+      "Humidity": 64,
+      "Cloudiness": 0,
+      "WindSpeed": 3.6,
+      "Precipitation": 0.0
+    }
+  },
+  {
+    "Name": "Токио",
+    "Country": "Япония",
+    "Population": 0,
+    "Longitude": 139.6917,
+    "Latitude": 35.6895,
+    "CityWeather": {
+      "Description": "ясно",
+      "Temperature": 8.0,
+      "FeelsLike": 3.63,
+      "Humidity": 36,
+      "Cloudiness": 0,
+      "WindSpeed": 9.26,
+      "Precipitation": 0.0
+    }
+  },
+  {
+    "Name": "Лондон",
+    "Country": "Великобритания",
+    "Population": 8908081,
+    "Longitude": -0.1278,
+    "Latitude": 51.5074,
+    "CityWeather": {
+      "Description": "облачно с прояснениями",
+      "Temperature": 6.0,
+      "FeelsLike": 3.19,
+      "Humidity": 76,
+      "Cloudiness": 51,
+      "WindSpeed": 3.09,
+      "Precipitation": 0.0
+    }
+  },
+  {
+    "Name": "Париж",
+    "Country": "Франция",
+    "Population": 2148327,
+    "Longitude": 2.3522,
+    "Latitude": 48.8566,
+    "CityWeather": {
+      "Description": "ясно",
+      "Temperature": 6.0,
+      "FeelsLike": 2.48,
+      "Humidity": 63,
+      "Cloudiness": 0,
+      "WindSpeed": 4.63,
+      "Precipitation": 0.0
+    }
+  }
+]
