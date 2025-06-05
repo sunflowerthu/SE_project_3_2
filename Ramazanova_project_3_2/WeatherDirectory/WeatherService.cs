@@ -12,7 +12,7 @@ namespace Ramazanova_project_3_2.WeatherDirectory
         /// <summary>
         /// Ключ для апи.
         /// </summary>
-        private const string ApiKey = "884819e12b4567032b5be88665c2ef00";
+        private const string ApiKey = "meow";
 
         /// <summary>
         /// Метод для получения погоды
